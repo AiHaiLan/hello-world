@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+HI
+     ***here,i like node.js C sharp and ML.
+     
